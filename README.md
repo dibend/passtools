@@ -55,8 +55,7 @@ a$ke9B!LmN1z@vD3Y^qL*r6#</code></pre>
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Security" width="300" />
 </p>
 
-<h2>📜 License</h2>
-<p>MIT — use at your own risk.</p>
+<p>use at your own risk.</p>
 
 <h2>🙌 Credits</h2>
 <p>Built with 💛 by <a href="https://github.com/dibend">dibend</a></p>
