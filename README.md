@@ -2,7 +2,9 @@
 
 <p>A minimal set of Bash tools for password generation and password-store (GPG) bootstrapping — with zero fluff and maximum clarity.</p>
 
-<p><img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" alt="Hackerman" width="300" /></p>
+<p style="text-align: center;">
+  <img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" alt="Hackerman" width="300" />
+</p>
 
 <h2>🔧 Scripts</h2>
 
@@ -49,10 +51,12 @@ a$ke9B!LmN1z@vD3Y^qL*r6#</code></pre>
   <li>Clipboard integration is supported if tools are installed.</li>
 </ul>
 
-<p><img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Security" width="300" /></p>
+<p style="text-align: center;">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Security" width="300" />
+</p>
 
 <h2>📜 License</h2>
 <p>MIT — use at your own risk.</p>
 
 <h2>🙌 Credits</h2>
-<p>Built with ❤💛 by <a href="https://github.com/dibend">dibend</a></p>
+<p>Built with 💛 by <a href="https://github.com/dibend">dibend</a></p>
